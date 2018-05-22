@@ -1,0 +1,9 @@
+[ {
+  "driverId" : "330",
+  "deviceId" : "IMEI63152065",
+  "endPointArn" : "arn:aws:sns:us-east-1:621926565379:endpoint/GCM/Nilesh/a97246fc-1395-3147-9716-0aa720acc047"
+}, {
+  "driverId" : "329",
+  "deviceId" : "IMEI631152065",
+  "endPointArn" : "arn:aws:sns:us-east-1:621926565379:endpoint/GCM/Nilesh/ccfb941a-d959-353b-8563-e61ddfdd183a"
+} ]
